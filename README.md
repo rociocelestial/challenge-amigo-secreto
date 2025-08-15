@@ -16,6 +16,7 @@ Si presionas el botón **Sortear Amigo** sin ingresar los nombres de tus amigos,
 <img width="1137" height="590" alt="image" src="https://github.com/user-attachments/assets/80817235-4f01-40fa-912a-2bc97922181b" />
 
 # Estructura del Proyecto : Amigo Secreto
+
 - **index.html**
 - **app.js**
 - **style.css**
